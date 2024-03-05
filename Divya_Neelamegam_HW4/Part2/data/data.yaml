@@ -1,0 +1,6 @@
+train: /content/drive/My Drive/DL_HW4_part2/data/train/images
+val: /content/drive/My Drive/DL_HW4_part2/data/valid/images
+test: /content/drive/My Drive/DL_HW4_part2/data/test/images
+
+nc: 3
+names: ['Bat', 'Butterfly', 'Squid']
